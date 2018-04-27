@@ -1,1 +1,14 @@
-# Zaliczenie
+= _Witajcie Fotomianiacy!!!_ 
+
+https://wolska0511.github.io/mojefotografie/[Nasze Portfolio]
+
+image::kredki.JPG[kredki.JPG,250]
+
+
+== Źródła fotograficznych inspiracji:
+
+* <http://www.national-geographic.pl/fotografia>
+
+* <https://www.szerokikadr.pl/>
+
+* <https://fotoblogia.pl/2945,najbardziej-inspirujaceh-polskie-blogi-fotograficzne>
