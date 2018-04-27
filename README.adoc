@@ -1,13 +1,15 @@
 https://justynapodolska.github.io/Zaliczenie/[moje portfolio]
-= _Gdzie spędzimy wakacje?_ 
+#= _Gdzie spędzimy wakacje?_ 
 
-# Dane dotyczace ulubionych miejsc wypoczy7nkowych Polaków
+## Atrakcje turystyczne w różnych regionach Polski
 
-## Pomorze
-## Mazury
-## Śląsk
-## Góry
-## Kaszuby
+|===
+|Pomorze|Kołobrzeg
+|Mazury|Olsztyn
+|Śląsk|Wrocław
+|Góry|Zakopane
+|Kaszuby|Kartuzy
+|===
 == Źródła fotografii:
 
 * http://www.ksiegarnia.slupsk.edu.pl/468-578-thickbox/gmina-glowczyce-pocztowka.jpg>
