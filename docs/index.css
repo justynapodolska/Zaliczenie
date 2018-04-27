@@ -13,7 +13,7 @@ body {
 
 .one {
   grid-area: 1 / 1 / 4 / 4;
-  background-image: url("li.jpg");
+  background-image: url(http://apartamenty-kg.pl/wp-content/uploads/2015/04/kgg-0x0.jpg);
   background-color: black;
   background-size: cover;
   background-position: center;
