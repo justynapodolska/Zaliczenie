@@ -1,14 +1,10 @@
-= _gDZIE SPĘDZIMY WAKACJE?_ 
+= _Gdzie spędzimy wakacje?_ 
 
-https://wolska0511.github.io/mojefotografie/[Nasze Portfolio]
+https://justynapodolska.github.io/Zaliczenie/[moje portfolio]
 
-image::kredki.JPG[kredki.JPG,250]
 
 
 == Źródła fotograficznych inspiracji:
 
-* <http://www.national-geographic.pl/fotografia>
+* http://www.ksiegarnia.slupsk.edu.pl/468-578-thickbox/gmina-glowczyce-pocztowka.jpg>
 
-* <https://www.szerokikadr.pl/>
-
-* <https://fotoblogia.pl/2945,najbardziej-inspirujaceh-polskie-blogi-fotograficzne>
