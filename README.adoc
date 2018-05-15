@@ -1,4 +1,4 @@
-moje portfolio https://justynapodolska.github.io/Zaliczenie/[image:mis.jpg[]]
+moje portfolio https://justynapodolska.github.io/Zaliczenie/[image:mis.jpg[mis.jpg,60]]
 
 # _Gdzie spędzimy wakacje?_ 
 
@@ -24,4 +24,4 @@ Polska Atrakcyjna zabierze Cię w podróż, jakiej nie zapomnisz! Przed Wami pon
 * https://podroze.smcloud.net/t/image/t/129325/w-kopalni-guido-w-podziemnym_332545.jpg
 * https://podroze.smcloud.net/t/photos/t/132345/atrakcje-zakopanego-top-10_1083807.jpg
 
-image:mis.jpg[]
+
