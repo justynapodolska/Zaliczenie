@@ -12,7 +12,7 @@ https://justynapodolska.github.io/Zaliczenie/[moje portfolio]
 |Kaszuby|Kartuzy
 |===
 
- 	27.01.2018 131.jpg: notatka z ikonką
+ image::27.01.2018 131.jpg
 
 == Źródła fotografii:
 
