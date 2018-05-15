@@ -12,7 +12,9 @@ https://justynapodolska.github.io/Zaliczenie/[moje portfolio]
 |Kaszuby|Kartuzy
 |===
 
- image::27.01.2018 131.jpg
+ image::27.01.2018 131.jpg[27.01.2018 131.jpg]
+ 
+image::kredki.JPG[kredki.JPG,250]
 
 == Źródła fotografii:
 
