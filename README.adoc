@@ -1,4 +1,4 @@
-moje portfolio https://justynapodolska.github.io/Zaliczenie/[image:mis.jpg[mis.jpg,60]]
+*_moje portfolio_* https://justynapodolska.github.io/Zaliczenie/[image:mis.jpg[mis.jpg,25]]
 
 # _Gdzie spędzimy wakacje?_ 
 
