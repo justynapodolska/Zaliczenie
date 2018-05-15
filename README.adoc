@@ -11,6 +11,9 @@ https://justynapodolska.github.io/Zaliczenie/[moje portfolio]
 |Góry|Zakopane
 |Kaszuby|Kartuzy
 |===
+
+NOTE: notatka z ikonką
+
 == Źródła fotografii:
 
 * http://www.ksiegarnia.slupsk.edu.pl/468-578-thickbox/gmina-glowczyce-pocztowka.jpg>
