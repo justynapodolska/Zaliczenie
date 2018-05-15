@@ -12,7 +12,7 @@ https://justynapodolska.github.io/Zaliczenie/[moje portfolio]
 |Kaszuby|Kartuzy
 |===
 
-image:mis.jpg[]
+image:widok.jpg[]
  
 Polska Atrakcyjna zabierze Cię w podróż, jakiej nie zapomnisz! Przed Wami ponad 100 inspirujących planów wycieczek od Bałtyku aż po Tatry: szlaki turystyczne pokazujące piękno polskiej przyrody, malownicze miasta i gminy, rozmach ciekawych atrakcji kulturalnych, wędrówki górskie, sporty wodne na mazurskich jeziorach oraz jod i witamina D nadmorskich plaż. Nasze propozycje to połączenie atrakcji, które uczą, bawią i dają niezapomniane wrażenia ze wspólnie spędzonego czasu. Daj się przekonać, że Polska jest atrakcyjna! 
 
@@ -24,3 +24,4 @@ Polska Atrakcyjna zabierze Cię w podróż, jakiej nie zapomnisz! Przed Wami pon
 * https://podroze.smcloud.net/t/image/t/129325/w-kopalni-guido-w-podziemnym_332545.jpg
 * https://podroze.smcloud.net/t/photos/t/132345/atrakcje-zakopanego-top-10_1083807.jpg
 
+image:mis.jpg[]
