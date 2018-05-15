@@ -23,5 +23,6 @@ Polska Atrakcyjna zabierze Cię w podróż, jakiej nie zapomnisz! Przed Wami pon
 * http://www.national-geographic.pl/media/cache/default_view/uploads/media/default/0011/33/87d954d67d3e53592e4cd33074d43b23d9984dee.jpeg
 * https://podroze.smcloud.net/t/image/t/129325/w-kopalni-guido-w-podziemnym_332545.jpg
 * https://podroze.smcloud.net/t/photos/t/132345/atrakcje-zakopanego-top-10_1083807.jpg
+* https://www.wakacje.pl/centrum-prasowe/statystyki.png?panstwa
 
-
+image:wykres1.jpg[]
