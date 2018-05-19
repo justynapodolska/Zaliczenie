@@ -16,6 +16,8 @@ image:rybki.jpg[rybki.jpg,500]
  
 Polska Atrakcyjna zabierze Cię w podróż, jakiej nie zapomnisz! Przed Wami ponad 100 inspirujących planów wycieczek od Bałtyku aż po Tatry: szlaki turystyczne pokazujące piękno polskiej przyrody, malownicze miasta i gminy, rozmach ciekawych atrakcji kulturalnych, wędrówki górskie, sporty wodne na mazurskich jeziorach oraz jod i witamina D nadmorskich plaż. Nasze propozycje to połączenie atrakcji, które uczą, bawią i dają niezapomniane wrażenia ze wspólnie spędzonego czasu. Daj się przekonać, że Polska jest atrakcyjna! 
 
+image:wykres1.jpg[]
+
 == Źródła fotografii:
 
 * http://www.ksiegarnia.slupsk.edu.pl/468-578-thickbox/gmina-glowczyce-pocztowka.jpg>
@@ -25,4 +27,4 @@ Polska Atrakcyjna zabierze Cię w podróż, jakiej nie zapomnisz! Przed Wami pon
 * https://podroze.smcloud.net/t/photos/t/132345/atrakcje-zakopanego-top-10_1083807.jpg
 * https://www.wakacje.pl/centrum-prasowe/statystyki.png?panstwa
 
-image:wykres1.jpg[]
+
